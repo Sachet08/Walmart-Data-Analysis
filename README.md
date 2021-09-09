@@ -8,7 +8,7 @@
     - numpy.
     - seaborn
     - matplotlib.
-    - datetime.
+   
 
 ## 2. Data<a name="data"></a> 
 
