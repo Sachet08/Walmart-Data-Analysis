@@ -20,7 +20,3 @@ There are sales data available of Walmart stores in [Kaggle](https://www.kaggle.
       -store.csv
       -features.csv
       
-## 4.
-## 5. Result<a name="results"></a>
-The details of the results show in the code.
-      
